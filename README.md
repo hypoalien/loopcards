@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/hypoalien/loopcards">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="client/public/android-chrome-512x512.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Loopcards: Digital business card.</h3>
@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](client/public/loopcards-demo.jpeg)
 
 Ready to upgrade your networking game? With Loopcards, it's as simple as tap, connect, and go! After signing up and creating your profile packed with all your essential info and social links, you're all set to make connections.
 
