@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/hypoalien/loopcards/total) ![Contributors](https://img.shields.io/github/contributors/hypoalien/loopcards?color=dark-green) ![Issues](https://img.shields.io/github/issues/hypoalien/loopcards) ![License](https://img.shields.io/github/license/hypoalien/loopcards) 
+![Contributors](https://img.shields.io/github/contributors/hypoalien/loopcards?color=dark-green) ![Forks](https://img.shields.io/github/forks/hypoalien/loopcards?style=social) ![Stargazers](https://img.shields.io/github/stars/hypoalien/loopcards?style=social) ![Issues](https://img.shields.io/github/issues/hypoalien/loopcards) ![License](https://img.shields.io/github/license/hypoalien/loopcards) 
 
 ## About The Project
 
